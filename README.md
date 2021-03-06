@@ -1,4 +1,4 @@
-# Ender-5-plus Dr.Hack-N-Sniff OperationEditon
+# Ender-5-plus Dr.Hack-N-Sniff Operation Editon
 This is where the new Ender 5 plus Firmwware will go.
 
 It will have a custome bootscreen and menus using DWIN. 
